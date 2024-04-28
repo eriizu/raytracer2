@@ -1,5 +1,5 @@
 {
-  description = "my epic vims collection";
+  description = "raytracing project from when back when I was a student";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
